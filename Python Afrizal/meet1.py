@@ -1,0 +1,3 @@
+print('penjumlahan sederhana')
+
+
