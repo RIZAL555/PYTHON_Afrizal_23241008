@@ -1,4 +1,4 @@
-nama = 'andra' #bisa menggunakan tanda kutip ' atau "" 
+nama = 'rizal' #bisa menggunakan tanda kutip ' atau "" 
 print(nama)
 integer = 18 #tanpa tanda kutip
 
